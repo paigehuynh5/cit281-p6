@@ -3,15 +3,9 @@
 ## Lab 7
 Purpose: To practice creating and using JavaScript classes by building a digital book library system that includes a Book class and a Library class.
 
-Technologies:
-JavaScript, Node.js, GitHub
+Technologies: JavaScript, Node.js, GitHub
 
-Learned
-– How to define and use JavaScript classes and constructors
-– How to create and manipulate arrays of objects
-– How to simulate private properties and methods
-– How to implement CRUD-like functionality with class methods (e.g., addBook, deleteBook)
-– How to use GitHub to organize and store code for labs and projects
+Learned: I learned how to define and use JavaScript classes and constructors, manage arrays of objects, and simulate private properties. I also implemented basic CRUD-like functionality using class methods and practiced organizing and storing code with GitHub.
 
 
 ![Project 6 Screenshot](lab6-screenshot.png)
@@ -20,20 +14,9 @@ Learned
 Purpose:
 The purpose of this project was to build a full client-server web application using Node.js and Express. The app allows users to interact with a list of items by performing all four main HTTP operations: GET, POST, PUT, and DELETE. It was designed to give hands-on experience working with server routes, APIs, error handling, and front-end integration.
 
-Technologies:
-– Node.js
-– Express.js
-– HTML / CSS / JavaScript
-– Fetch API
-– Git & GitHub
+Technologies: Node.js, Express.js, HTML / CSS / JavaScript, Fetch API, Git & GitHub
 
-Learned:
-– How to set up and structure an Express server
-– How to create and test RESTful routes for GET, POST, PUT, and DELETE
-– How to use fetch() to communicate between client and server
-– How to send and receive JSON data between client and server
-– How to handle errors gracefully and return proper JSON responses
-– How to use Git for version control and GitHub for hosting the code
-– How to organize a project with both client and server components
+Learned: I learned how to set up and structure an Express server with RESTful routes for GET, POST, PUT, and DELETE, and how to use fetch() to send and receive JSON data between the client and server. I also gained experience handling errors, organizing full-stack projects, and using Git and GitHub for version control and project hosting.
+
 
 ![Project 6 Screenshot](p6-screenshot.png)
