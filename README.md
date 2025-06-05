@@ -1,12 +1,24 @@
 # CIT 281 Project 6
 
 ## Lab 7
-Goal: Create a GitHub personal website with Pages, set up and clone repos, write Node.js JavaScript files, handle errors, and push changes to GitHub.
+Purpose: To practice creating and using JavaScript classes by building a digital book library system that includes a Book class and a Library class.
+
+Technologies:
+JavaScript, Node.js, GitHub
+
+Learned
+– How to define and use JavaScript classes and constructors
+– How to create and manipulate arrays of objects
+– How to simulate private properties and methods
+– How to implement CRUD-like functionality with class methods (e.g., addBook, deleteBook)
+– How to use GitHub to organize and store code for labs and projects
+
+
+![Project 6 Screenshot](lab6-screenshot.png)
 
 ## Project 6
 Purpose:
 The purpose of this project was to build a full client-server web application using Node.js and Express. The app allows users to interact with a list of items by performing all four main HTTP operations: GET, POST, PUT, and DELETE. It was designed to give hands-on experience working with server routes, APIs, error handling, and front-end integration.
-![Project 6 Screenshot](lab6-screenshot.png)
 
 Technologies:
 – Node.js
