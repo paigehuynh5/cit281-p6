@@ -8,7 +8,7 @@ Technologies: JavaScript, Node.js, GitHub
 Learned: I learned how to define and use JavaScript classes and constructors, manage arrays of objects, and simulate private properties. I also implemented basic CRUD-like functionality using class methods and practiced organizing and storing code with GitHub.
 
 
-![Project 6 Screenshot](lab6-screenshot.png)
+![Project 6 Screenshot](lab07-screenshot.png)
 
 ## Project 6
 Purpose:
